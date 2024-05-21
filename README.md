@@ -40,10 +40,10 @@ while True:
  
 ## OUTPUT
 ### client:
- <img src="https://github.com/aaliyafathimaa/2a_Stop_and_Wait_Protocol/assets/154801069/3459f2be-bbd7-4d11-9d85-98c283aaea3e.type" width="" height="500"> 
+ <img src="https://github.com/aaliyafathimaa/2a_Stop_and_Wait_Protocol/assets/154801069/3459f2be-bbd7-4d11-9d85-98c283aaea3e.type" width="" height="200"> 
  
 ### server:
- <img src="https://github.com/aaliyafathimaa/2a_Stop_and_Wait_Protocol/assets/154801069/c8149563-9d3a-4aa5-b69e-bce27f2aedbe.type" width="" height="500">
+ <img src="https://github.com/aaliyafathimaa/2a_Stop_and_Wait_Protocol/assets/154801069/c8149563-9d3a-4aa5-b69e-bce27f2aedbe.type" width="" height="200">
 
 
 ## RESULT
